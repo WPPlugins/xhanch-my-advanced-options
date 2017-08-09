@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-26 11:43+0100\n"
+"PO-Revision-Date: 2010-09-26 02:45+0300\n"
+"Last-Translator: Susanto B.Sc (admin@xhanch.com)\n"
+"Language-Team: www.xhanch.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+
+# Plugin strings
+
+msgid "My Advanced Options"
+msgstr ""
+
+msgid "My Adv. Options"
+msgstr ""
+
+
+
+# Configuration
+
+msgid "Configuration Updated"
+msgstr ""
+
+msgid "Xhanch - My Advanced Options - Configuration"
+msgstr ""
+
+msgid "Disable auto p on post/page? <i>(This will stop WordPress to add paragraph automatically to your post/page contents)</i>"
+msgstr ""
+
+msgid "Disable auto p on comments? <i>(This will stop WordPress to add paragraph automatically to your comments)</i>"
+msgstr ""
+
+msgid "Disable content texturize? <i>(This will stop WordPress to automatically clean up your post/page contents HTML code)</i>"
+msgstr ""
+
+msgid "Disable post/page revision logging? <i>(This will stop WordPress to store post/page revisions records that will mostly be junks to your database)"
+msgstr ""
+
+msgid "Enable shortcode on text widgets?"
+msgstr ""
+
+msgid "Show Credit?"
+msgstr ""
+
+msgid "Update Configuration"
+msgstr ""
+
+msgid "Support This Plugin Development"
+msgstr ""
+
+msgid "Do you like this plugin? Do you think this plugin very helpful?"
+msgstr ""
+
+msgid "Why don't you support this plugin developement by donating any amount you are willing to give?"
+msgstr ""
+
+msgid "If you wish to support the developer and make a donation, please click the following button. Thanks!"
+msgstr ""
+
+msgid "Complete Info and Share Room"
+msgstr ""
+
+msgid "Complete information regarding Xhanch - Advanced Options (Share Room)"
+msgstr ""
+
+msgid "Donate"
+msgstr ""
